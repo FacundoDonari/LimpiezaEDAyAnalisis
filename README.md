@@ -6,21 +6,19 @@ Flujo de trabajo:
 1. Limpieza y preparación de datos (Python):
 
     a) Eliminación de duplicados, corrección de tipos de datos, tratamiento de valores nulos/negativos, y filtrado de registros irrelevantes.
-   b) Exportación a un archivo CSV limpio para su análisis en MySQL.
+
+    b) Exportación a un archivo CSV limpio para su análisis en MySQL.
 
 3. Análisis Exploratorio de Datos (MySQL):
 
    a) Respuesta a 10 preguntas clave sobre métricas de ventas (ej. promedio mensual, clientes recurrentes, distribución geográfica, etc.).
+
    b) Identificación de patrones y tendencias para evaluar la salud financiera del negocio.
 
 5. Visualización y Reporte (Power BI):
 
-    c) Dashboard interactivo con gráficos y tablas que resumen:
-       c.1) Desempeño de ventas por país/mes.
-       c.2) Analisis de cantidades.
-       c.3) Ventas promedio.
-       c.4) Porcentaje de retencion de clientes.
-
+    c) Dashboard interactivo con gráficos y tablas que resumen: Desempeño de ventas por país/mes. Ventas promedio. Porcentaje de retencion de clientes. Gasto promedio de clientes. 
+       
     
 
 Tecnologías utilizadas:
