@@ -32,3 +32,6 @@ Reporte Ventas.pbix: Dashboard interactivo (disponible para descarga).
 
 
 Este proyecto demostró cómo la transformación de datos en insights puede guiar decisiones estratégicas, como los meses en lo que mas ventas hay o la reorientación de recursos hacia clientes de alto valor.
+
+Imagen del Reporte en Power BI
+![Image](https://github.com/user-attachments/assets/2eebdb0c-abf6-4df4-bda2-9ec0ba5e5153)
